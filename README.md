@@ -1,1 +1,0 @@
-# Foxcore_Retail-_Designing_a_Database
